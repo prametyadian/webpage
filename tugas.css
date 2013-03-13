@@ -1,0 +1,66 @@
+#cover{
+	height:auto;
+	width:980px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+.daftar{
+	margin:15px;
+	color:#0033CC;
+	font-family:Garamond;
+	}
+	
+#biodata{
+	font-family:Gabriola;
+	font-size:25px;
+	color:green;
+	margin-top:-13px;
+	margin-right:500px;
+	border:3px dashed white;
+	border-radius:25px;
+	background-color:#acef56;
+	height:400px;
+	width:650px;
+	opacity:1,75;
+	float:right;
+	}
+	
+#foto{
+	float:left;
+	height:9px;
+	width:12px;
+	border:2px solid yellow;
+	border-radius:15px;
+	margin-left:750px;
+	margin-top:-304px;
+	}
+	
+#riwayat{
+	font-family;Harrington;
+	font-size:18px:
+	color:yellow;
+	margin-left:340px;
+	margin-top:443px;
+	border:4px dashed purple;
+	background-color:yellow;
+	opacity:0,75;
+	border-radius:20px;
+	height:300px;
+	width:500px;
+	}
+	
+a{
+	background-color:pink;
+	border-top-left-radius: 23px;
+	border-top-right-radius: 23px;
+	}
+	
+h1{
+	background-color:#7bb8f7;
+	}
+	
+div p{
+	background-color:green;
+	color:yellow;
+	}
